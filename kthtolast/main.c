@@ -1,4 +1,4 @@
-Kth to last element - Method 1
+/* Kth to last element - Method 1 */
 
 #include <stdio.h>
 #include <stdlib.h>
